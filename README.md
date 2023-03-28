@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasmeen Abotalb</h1>
-<h3 align="center">I am a full stack web developer,I believe that the web makes our lives a whole lot better, and I really want to be a part of that , I want to contribute to making life better and easier for others , using the power of modern websites and applications.</h3>
+<h3 align="center">I am a full stack web developer</h3>
+
+<p align="left">I believe that the web makes our lives a whole lot better, and I really want to be a part of that , I want to contribute to making life better and easier for others , using the power of modern websites and applications.</p>
 
 - 🔭 I’m currently working on **my personal portfolio**
 
