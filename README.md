@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yasmeen-abotalb-6112181b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yasmeen-abotalb-6112181b2" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yasmeen-abotalb-6112181b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yasmeen-abotalb-6112181b2" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/yasmeen.abotalb.77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yasmeen.abotalb.77" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/invites/contact/?i=m90wyoi8rkn9&utm_content=vobwry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?i=m90wyoi8rkn9&utm_content=vobwry" height="30" width="40" /></a>
 </p>
