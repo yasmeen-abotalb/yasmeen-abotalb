@@ -3,6 +3,8 @@
 
 <p align="left">I believe that the web makes our lives a whole lot better, and I really want to be a part of that , I want to contribute to making life better and easier for others , using the power of modern websites and applications.</p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasmeen-abotalb&label=Profile%20views&color=0e75b6&style=flat" alt="yasmeen-abotalb" /> </p>
+
 - 🔭 I’m currently working on **my personal portfolio**
 
 - 🌱 I’m currently learning **.Net Core**
