@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasmeen Abotalb</h1>
 <h3 align="center">I am a full stack web developer,I believe that the web makes our lives a whole lot better, and I really want to be a part of that , I want to contribute to making life better and easier for others , using the power of modern websites and applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasmeen-abotalb&label=Profile%20views&color=0e75b6&style=flat" alt="yasmeen-abotalb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasmeen-abotalb" alt="yasmeen-abotalb" /></a> </p>
-
 - 🔭 I’m currently working on **my personal portfolio**
 
 - 🌱 I’m currently learning **.Net Core**
